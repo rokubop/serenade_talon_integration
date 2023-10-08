@@ -36,6 +36,6 @@ Note that the `talon/parrot.log` file will continue to grow so you should probab
 
 You can add more commands to the Talon files, such as F1-F12 keys or other keys if you like. Example: `function one: key(f1)`. You can add these commands to the `talon_commands.talon` and `talon_sleep_commands.talon`, or make new `.talon` files, as long as it's inside the user folder.
 
-If you want to disable any of the talon commands or parrot commands, put a `# ` before the line.b
+If you want to disable any of the talon commands or parrot commands, put a `# ` before the line.
 
 Talon comes with two free parrot sounds. "pop" and "hiss". however "hiss" may trigger too aggressively, so it is commented out by default.
